@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'pdfresource',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '62db3ff4f4454c351564da70bdc76597',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '516ace6415264546e038e98635beb9e5',
+  'native_key' => 'pdfresource.generateOnPrerender',
+  'object' => '{"key":"pdfresource.generateOnPrerender","value":false,"xtype":"combo-boolean","namespace":"pdfresource","area":"pdf","editedon":null}',
+);

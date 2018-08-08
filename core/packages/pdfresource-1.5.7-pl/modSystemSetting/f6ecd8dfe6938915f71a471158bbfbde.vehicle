@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'pdfresource',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0a7c8d6217e89aae6605fdef25105c28',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f6ecd8dfe6938915f71a471158bbfbde',
+  'native_key' => 'pdfresource.pdfTv',
+  'object' => '{"key":"pdfresource.pdfTv","value":"create_pdf","xtype":"textfield","namespace":"pdfresource","area":"resource","editedon":null}',
+);

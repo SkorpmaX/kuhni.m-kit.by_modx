@@ -1,0 +1,77 @@
+<?php  return array (
+  'items' => 
+  array (
+    0 => 
+    array (
+      'id' => 36,
+      'name' => 'photo_2018-04-19_00-32-08.jpg',
+      'filename' => '2/36.jpg',
+      'description' => NULL,
+      'mediatype' => 'image',
+      'url' => NULL,
+      'createdon' => '2018-07-10 01:57:54',
+      'createdby' => 1,
+      'active' => 1,
+      'duration' => '',
+      'streamer' => NULL,
+      'watermark_pos' => 'tl',
+      'tags' => NULL,
+    ),
+    1 => 
+    array (
+      'id' => 37,
+      'name' => 'photo_2018-04-19_00-32-09 (2).jpg',
+      'filename' => '2/37.jpg',
+      'description' => NULL,
+      'mediatype' => 'image',
+      'url' => NULL,
+      'createdon' => '2018-07-10 01:57:54',
+      'createdby' => 1,
+      'active' => 1,
+      'duration' => '',
+      'streamer' => NULL,
+      'watermark_pos' => 'tl',
+      'tags' => NULL,
+    ),
+    2 => 
+    array (
+      'id' => 38,
+      'name' => 'photo_2018-04-19_00-32-09.jpg',
+      'filename' => '2/38.jpg',
+      'description' => NULL,
+      'mediatype' => 'image',
+      'url' => NULL,
+      'createdon' => '2018-07-10 01:57:54',
+      'createdby' => 1,
+      'active' => 1,
+      'duration' => '',
+      'streamer' => NULL,
+      'watermark_pos' => 'tl',
+      'tags' => NULL,
+    ),
+    3 => 
+    array (
+      'id' => 39,
+      'name' => 'photo_2018-04-19_00-40-13 (3).jpg',
+      'filename' => '2/39.jpg',
+      'description' => NULL,
+      'mediatype' => 'image',
+      'url' => NULL,
+      'createdon' => '2018-07-10 01:57:55',
+      'createdby' => 1,
+      'active' => 1,
+      'duration' => '',
+      'streamer' => NULL,
+      'watermark_pos' => 'tl',
+      'tags' => NULL,
+    ),
+  ),
+  'total' => 9,
+  'album' => 
+  array (
+    'id' => 2,
+    'name' => 'otzv',
+    'description' => '',
+    'year' => '',
+  ),
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'pdfresource',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '81e9f04aa5b2160e2ff592e6ef86f2d7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '94bc020327be83f9e32911e244bc9398',
+  'native_key' => 'pdfresource.pdfTvOptions',
+  'object' => '{"key":"pdfresource.pdfTvOptions","value":"pdf_options","xtype":"textfield","namespace":"pdfresource","area":"resource","editedon":null}',
+);
